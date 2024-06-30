@@ -9,7 +9,7 @@ My Supermarket is a web application developed with Django for the backend and Re
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployment](#deployment)
-- [Project Structure](#project-structure)
+- [Admin Credentials](#admin-credentials)
 
 ## Features
 
@@ -94,6 +94,15 @@ The application is deployed online and can be accessed at the following addresse
 
 - **Frontend**: The frontend of the application is live at [https://66812b3982106b0a70b9ba3f--hilarious-gumption-b4d7d9.netlify.app/](https://66812b3982106b0a70b9ba3f--hilarious-gumption-b4d7d9.netlify.app/)
 - **Backend**: The backend of the application is running on Render at [https://my-shop-1qc0.onrender.com](https://my-shop-1qc0.onrender.com)
+
+## Admin Credentials
+
+To have a complete view of the application, you can create an admin credential. Follow these steps:
+
+1. **Register a new user on the application**.
+2. **Check the `is_superuser` option and save**.
+
+This user will now have access to all the functionalities of the site, including product management.
 
 ## Additional Information
 
