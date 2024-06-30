@@ -33,8 +33,8 @@ Before you begin, ensure you have the following:
 
 1. **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <your-repo-directory>
+    git clone https://github.com/Reouhaddad/MY_SHOP.git
+    cd MY_SHOP
     ```
 
 2. **Create and activate a virtual environment:**
