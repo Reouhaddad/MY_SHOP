@@ -8,6 +8,7 @@ My Supermarket is a web application developed with Django for the backend and Re
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Deployment](#deployment)
 - [Project Structure](#project-structure)
 
 ## Features
@@ -25,7 +26,6 @@ Before you begin, ensure you have the following:
 
 - Python 3.x installed
 - Node.js and npm installed
-
 
 ## Installation
 
@@ -88,6 +88,12 @@ Before you begin, ensure you have the following:
 - Ensure the frontend server is running on `http://localhost:3000`
 - Open a browser and navigate to `http://localhost:3000` to use the application.
 
+## Deployment
+
+The application is deployed online and can be accessed at the following addresses:
+
+- **Frontend**: The frontend of the application is live at [https://66812b3982106b0a70b9ba3f--hilarious-gumption-b4d7d9.netlify.app/](https://66812b3982106b0a70b9ba3f--hilarious-gumption-b4d7d9.netlify.app/)
+- **Backend**: The backend of the application is running on Render at [https://my-shop-1qc0.onrender.com](https://my-shop-1qc0.onrender.com)
 
 ## Additional Information
 
@@ -99,5 +105,3 @@ Before you begin, ensure you have the following:
 ---
 
 This README provides a comprehensive overview of the My Supermarket application, detailing its features, installation steps, usage, deployment with Docker, and project structure.
-
-
